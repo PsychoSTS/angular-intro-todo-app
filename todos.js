@@ -10,6 +10,12 @@ let todos = [
         description: 'Buy groceries for the next week.',
         edit: false,
         done: false
+    },
+    {
+        title: 'Finish the presentation',
+        description: 'Change and finnish the Angular presentation.',
+        edit: false,
+        done: true
     }
 ];
 
